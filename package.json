@@ -1,0 +1,9 @@
+{
+    "name": "baba_s.upm.test",
+    "displayName": "baba_s.upm.test",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "author": "baba_s",
+    "description": "Hoge",
+    "dependencies": {}
+}
